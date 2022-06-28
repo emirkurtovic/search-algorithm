@@ -24,6 +24,6 @@ Internship dev task.
 It is reasonable to assume that `n1` is much larger than `n2`, and in that case, the time complexity of the algorithm is `O(n1 * log n1)`.
 ## Space complexity
 
-Under the same assumption that the string lengths in `reviewsRepository` are `~ n2`. If we count the referenced strings in the result then the space complexity of the algorithm is `O(n1 * n2 ^ 2)`, and if we don't then it is `O(n1 * n2)`. In both cases if `n1 >> n2` then it becomes `O(n1)`.
+Under the same assumption that the string lengths in `reviewsRepository` are `~ n2`, if we count the referenced strings in the result then the space complexity of the algorithm is `O(n1 * n2 ^ 2)`, and if we don't then it is `O(n1 * n2)`. In both cases if `n1 >> n2` then it becomes `O(n1)`.
 
 
