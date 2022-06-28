@@ -1,0 +1,15 @@
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\bin\Debug\net6.0\Search Algorithm.exe
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\bin\Debug\net6.0\Search Algorithm.deps.json
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\bin\Debug\net6.0\Search Algorithm.runtimeconfig.json
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\bin\Debug\net6.0\Search Algorithm.dll
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\bin\Debug\net6.0\Search Algorithm.pdb
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.csproj.AssemblyReference.cache
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.AssemblyInfoInputs.cache
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.AssemblyInfo.cs
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.csproj.CoreCompileInputs.cache
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.dll
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\refint\Search Algorithm.dll
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.pdb
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\Search Algorithm.genruntimeconfig.cache
+E:\ZADACI PROGRAMIRANJE\Search Algorithm\Search Algorithm\obj\Debug\net6.0\ref\Search Algorithm.dll
