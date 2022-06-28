@@ -16,7 +16,7 @@ static List<List<string>> SearchSuggestions(List<string> reviewsRepository, stri
     {
         string x = input.Substring(0, i+1);//time - O(n2), space - O(n2)
         temp = temp.FindAll(a=>a.StartsWith(x));//time - O(n1*n2)
-        if (temp.Count == 0) break;
+        //if (temp.Count == 0) break;
         keywordSuggestions.Add(temp.Take(3).ToList());//time - O(1)
     }
     return keywordSuggestions;
